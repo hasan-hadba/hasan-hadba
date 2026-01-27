@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! I'm Hasan 👋
 
-<!--
-**hasan-hadba/hasan-hadba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **Computer Engineer** and a **Web Developer** focused on creating clean, functional, and user-friendly web projects.
 
-Here are some ideas to get you started:
+### 🛠 Skills & Tools
+- **Web Development:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS.
+- **Design:** UI Design using Figma.
+- **Tools:** Git, GitHub, vs code, figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Featured Projects
+- **Image Editor:** Professional photo manipulation tool.
+- **Network Checker:** Real-time internet status monitoring.
+- **CRUDS System:** Data management and storage system.
+
+### 🎓 Academic Background
+- High School Diploma (Scientific Stream) - Grade: 88.1%.
