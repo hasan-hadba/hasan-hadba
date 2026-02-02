@@ -1,16 +1,28 @@
-# Hi there! I'm Hasan 👋
+# Hi there! I'm Hasan 
 
-I am an aspiring **Computer Engineer** and a **Web Developer** focused on creating clean, functional, and user-friendly web projects.
+I am a Front-End Developer dedicated to designing clean, responsive, and user-friendly interfaces. Currently, I am building a strong technical foundation in software development and computer science fundamentals, with the long-term ambition of becoming a professional Computer Engineer. My approach combines aesthetic design with functional code to deliver seamless digital experiences.
 
-### 🛠 Skills & Tools
-- **Web Development:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS.
-- **Design:** UI Design using Figma.
-- **Tools:** Git, GitHub, vs code, figma.
+Technical Skills and Tools
+Programming Languages: C, Python (Basics), and Vanilla JavaScript (ES6+).
 
-### 📁 Featured Projects
-- **Image Editor:** Professional photo manipulation tool.
-- **Network Checker:** Real-time internet status monitoring.
-- **CRUDS System:** Data management and storage system.
+Web Development: HTML5, CSS3, and Tailwind CSS.
 
-### 🎓 Academic Background
-- High School Diploma (Scientific Stream) - Grade: 88.1%.
+Computer Science Fundamentals: Algorithms (Search and Sort), Data Structures, Memory Management, and Pointers.
+
+Design and UI/UX: Visual Design, Wireframing, and Prototyping using Figma.
+
+Development Tools: Git, GitHub, Visual Studio Code, and Cursor.
+
+Featured Projects
+Secure Data Vault: A security-focused terminal application engineered to practice logic flow and encryption principles (Caesar Cipher). Developed as part of Harvard’s CS50x curriculum. Link to Project
+
+CRUD System: A data management and storage system designed to handle operations efficiently while maintaining a clean user interface. Link to Project
+
+Professional Image Editor: A web-based photo manipulation tool created to practice interactive elements and real-time DOM manipulation. Link to Project
+
+Academic Background
+Syrian High School Diploma (Scientific Stream)
+
+Issued by: Ministry of Education, Syrian Arab Republic.
+
+Grade: 87.66% (STEM Excellence).
