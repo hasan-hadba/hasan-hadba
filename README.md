@@ -2,27 +2,28 @@
 
 I am a Front-End Developer dedicated to designing clean, responsive, and user-friendly interfaces. Currently, I am building a strong technical foundation in software development and computer science fundamentals, with the long-term ambition of becoming a professional Computer Engineer. My approach combines aesthetic design with functional code to deliver seamless digital experiences.
 
-Technical Skills and Tools
-Programming Languages: C, Python (Basics), and Vanilla JavaScript (ES6+).
+## Technical Skills and Tools
 
-Web Development: HTML5, CSS3, and Tailwind CSS.
+**Programming Languages:** C, Python (Basics), and Vanilla JavaScript (ES6+).
 
-Computer Science Fundamentals: Algorithms (Search and Sort), Data Structures, Memory Management, and Pointers.
+**Web Development:** HTML5, CSS3, and Tailwind CSS.
 
-Design and UI/UX: Visual Design, Wireframing, and Prototyping using Figma.
+**Computer Science Fundamentals:** Algorithms (Search and Sort), Data Structures, Memory Management, and Pointers.
 
-Development Tools: Git, GitHub, Visual Studio Code, and Cursor.
+**Design and UI/UX:** Visual Design, Wireframing, and Prototyping using Figma.
 
-Featured Projects
-Secure Data Vault: A security-focused terminal application engineered to practice logic flow and encryption principles (Caesar Cipher). Developed as part of Harvard’s CS50x curriculum. Link to Project
+**Development Tools:** Git, GitHub, Visual Studio Code, and Cursor.
 
-CRUD System: A data management and storage system designed to handle operations efficiently while maintaining a clean user interface. Link to Project
+## Featured Projects
 
-Professional Image Editor: A web-based photo manipulation tool created to practice interactive elements and real-time DOM manipulation. Link to Project
+**Secure Data Vault:** A security-focused terminal application engineered to practice logic flow and encryption principles (Caesar Cipher). Developed as part of Harvard’s CS50x curriculum. 
 
-Academic Background
-Syrian High School Diploma (Scientific Stream)
+**Link to Project:** https://github.com/hasan-hadba/Secure-Data-Vault
 
-Issued by: Ministry of Education, Syrian Arab Republic.
+## Academic Background
 
-Grade: 87.66% (STEM Excellence).
+**Syrian High School Diploma (Scientific Stream)**
+
+**Issued by:** Ministry of Education, Syrian Arab Republic.
+
+**Grade:** 87.66% (STEM Excellence).
