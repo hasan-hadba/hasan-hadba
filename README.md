@@ -20,6 +20,12 @@ I am a Front-End Developer dedicated to designing clean, responsive, and user-fr
 
 **Link to Project:** https://github.com/hasan-hadba/Secure-Data-Vault
 
+## Modern Image Editor
+A functional web-based image processing platform engineered to demonstrate core frontend development skills and DOM manipulation. Developed using Vanilla JavaScript, HTML5, and CSS3.
+
+* **Live Demo:** [Click here to launch the project](https://hasan-hadba.github.io/modern-image-editor/)
+* **Project Repository:** [Link to source code and documentation](https://github.com/hasan-hadba/modern-image-editor)
+
 ## Academic Background
 
 **Syrian High School Diploma (Scientific Stream)**
