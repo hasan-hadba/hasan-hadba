@@ -26,6 +26,12 @@ A functional web-based image processing platform engineered to demonstrate core 
 * **Live Demo:** [Click here to launch the project](https://hasan-hadba.github.io/modern-image-editor/)
 * **Project Repository:** [Link to source code and documentation](https://github.com/hasan-hadba/modern-image-editor)
 
+## Adidas Modern Landing Page
+A high-end, responsive landing page designed to showcase advanced CSS styling and modern UI/UX principles. Built entirely with pure HTML and CSS to demonstrate frontend precision.
+
+* **Live Demo:** [Click here to launch the project](https://hasan-hadba.github.io/adidas-modern-landing/)
+* **Project Repository:** [Link to source code and documentation](https://github.com/hasan-hadba/adidas-modern-landing)
+
 ## Academic Background
 
 **Syrian High School Diploma (Scientific Stream)**
