@@ -1,6 +1,6 @@
 # Hi there! I'm Hasan 
 
-I am a Front-End Developer dedicated to designing clean, responsive, and user-friendly interfaces. Currently, I am building a strong technical foundation in software development and computer science fundamentals, with the long-term ambition of becoming a professional Computer Engineer. My approach combines aesthetic design with functional code to deliver seamless digital experiences.
+I am a Front-End Developer dedicated to designing clean, responsive, and user-friendly interfaces. Currently, I am building a strong technical foundation in software development and computer science fundamentals, with the long-term ambition of becoming a professional Computer Engineer. My approach combines aesthetic design with functional code to deliver seamless digital experiences , **You can view my full work and interactive projects at my [Personal Portfolio](https://hasan-hadba.github.io/Hasan-Portfolio/).**
 
 ## Technical Skills and Tools
 
