@@ -18,7 +18,7 @@ I am a Front-End Developer dedicated to designing clean, responsive, and user-fr
 
 **Secure Data Vault:** A security-focused terminal application engineered to practice logic flow and encryption principles (Caesar Cipher). Developed as part of Harvard’s CS50x curriculum. 
 
-**Link to Project:** https://github.com/hasan-hadba/Secure-Data-Vault
+**Link to Project:**[Link to source code](https://github.com/hasan-hadba/Secure-Data-Vault)
 
 ## Modern Image Editor
 A functional web-based image processing platform engineered to demonstrate core frontend development skills and DOM manipulation. Developed using Vanilla JavaScript, HTML5, and CSS3.
