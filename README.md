@@ -26,6 +26,8 @@ A C-based academic management tool engineered to process student records using c
 
 * **Project Repository:** [Link to source code and documentation](https://github.com/hasan-hadba/Student-Grades-Management-System)
 
+---
+
 ## Modern Image Editor
 A functional web-based image processing platform engineered to demonstrate core frontend development skills and DOM manipulation. Developed using Vanilla JavaScript, HTML5, and CSS3.
 
