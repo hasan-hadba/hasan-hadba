@@ -20,6 +20,12 @@ I am a Front-End Developer dedicated to designing clean, responsive, and user-fr
 
 **Link to Project:**[Link to source code](https://github.com/hasan-hadba/Secure-Data-Vault)
 
+### Student Grades Management System
+
+A C-based academic management tool engineered to process student records using custom data structures and performance algorithms. Developed to demonstrate logic flow and data organization principles.
+
+* **Project Repository:** [Link to source code and documentation](https://github.com/hasan-hadba/Student-Grades-Management-System)
+
 ## Modern Image Editor
 A functional web-based image processing platform engineered to demonstrate core frontend development skills and DOM manipulation. Developed using Vanilla JavaScript, HTML5, and CSS3.
 
