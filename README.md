@@ -1,8 +1,8 @@
-# Hi there! I'm Hasan 
+# 👋 Hi there! I'm Hasan 
 
 I am a Front-End Developer dedicated to designing clean, responsive, and user-friendly interfaces. Currently, I am building a strong technical foundation in software development and computer science fundamentals, with the long-term ambition of becoming a professional Computer Engineer. My approach combines aesthetic design with functional code to deliver seamless digital experiences.
 
-## Technical Skills and Tools
+## ⚡Technical Skills and Tools
 
 **Programming Languages:** C, Python (Basics), and Vanilla JavaScript (ES6+).
 
@@ -21,6 +21,7 @@ A curated collection of high-end landing pages and websites. This list focuses o
 
 ### 🧠 [JS Logic & DOM Mastery](https://github.com/stars/hasan-hadba/lists/js-logic-dom-mastery)
 A gallery of functional web applications focusing on complex JavaScript logic, DOM manipulation, and interactive user experiences. This collection showcases the "brain" behind the beautiful interfaces.
+
 ---
 
 ## Contact Me
